@@ -1,1 +1,10 @@
 截屏  flameshot gui -p 图片保存路径
+
+#github
+1、push
+git commit -m "first conmit"
+git add .
+git commit -m "first conmit"
+(git remote add origin git@github.com:lwt104/github.git)
+git push -u origin master
+
