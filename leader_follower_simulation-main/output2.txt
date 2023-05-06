@@ -1,0 +1,1717 @@
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.1490000000000009
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.10099999999999909
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.07600000000002183
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.027999999999991587
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.0049999999999954525
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.01099999999999568
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.002999999999985903
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.012000000000000455
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.003999999999990678
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.004000000000019099
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0010000000000047748
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.004000000000019099
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.00899999999998613
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.0049999999999954525
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0020000000000095497
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.003999999999990678
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.003999999999990678
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0020000000000095497
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.007000000000005002
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0030000000000143245
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0049999999999954525
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.002999999999985903
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.002999999999985903
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0020000000000095497
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0010000000000047748
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.004000000000019099
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.006000000000000227
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.004000000000019099
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0010000000000047748
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0
+Trajectory received!
+Interpolation time:  0.004000000000019099
+Time delay 0.006000000000000227
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.005000000000023874
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.01099999999999568
+Trajectory received!
+Interpolation time:  0.0020000000000095497
+Time delay 0.009000000000014552
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.003999999999990678
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.006000000000000227
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0030000000000143245
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.003999999999990678
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.009000000000014552
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.007000000000005002
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0010000000000047748
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.01099999999999568
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.0049999999999954525
+Trajectory received!
+Interpolation time:  0.0
+Time delay -0.0010000000000047748
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0030000000000143245
+Trajectory received!
+Interpolation time:  0.001999999999981128
+Time delay 0.013999999999981583
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.006000000000000227
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.003999999999990678
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.0049999999999954525
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.008000000000009777
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.014999999999986358
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0020000000000095497
+Trajectory received!
+Interpolation time:  0.0020000000000095497
+Time delay 0.004000000000019099
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.009999999999990905
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.002999999999985903
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.007000000000005002
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0049999999999954525
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0049999999999954525
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0010000000000047748
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.009999999999990905
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.003999999999990678
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.003999999999990678
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.006000000000000227
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0049999999999954525
+Trajectory received!
+Interpolation time:  0.0009999999999763531
+Time delay 0.0009999999999763531
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.003999999999990678
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.006000000000000227
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.008000000000009777
+Trajectory received!
+Interpolation time:  0.0020000000000095497
+Time delay 0.010000000000019327
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0010000000000047748
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0049999999999954525
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.001999999999981128
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.01999999999998181
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.007000000000005002
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.004000000000019099
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0010000000000047748
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.008000000000009777
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.004000000000019099
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0010000000000047748
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0049999999999954525
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.008000000000009777
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.002999999999985903
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0049999999999954525
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.005000000000023874
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.0049999999999954525
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.004000000000019099
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.005000000000023874
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.01099999999999568
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.009000000000014552
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.005000000000023874
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.007000000000005002
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.003999999999990678
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.002999999999985903
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.02600000000001046
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.009000000000014552
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.007000000000005002
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.001999999999981128
+Trajectory received!
+Interpolation time:  0.001999999999981128
+Time delay 0.0009999999999763531
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0010000000000047748
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0049999999999954525
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.007000000000005002
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.002999999999985903
+Trajectory received!
+Interpolation time:  0.004000000000019099
+Time delay 0.006000000000000227
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.004000000000019099
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0009999999999763531
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.0049999999999954525
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.003999999999990678
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.003999999999990678
+Trajectory received!
+Interpolation time:  0.002999999999985903
+Time delay 0.0069999999999765805
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.006000000000000227
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.003999999999990678
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.007000000000005002
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.007000000000005002
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0010000000000047748
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.007000000000005002
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0010000000000047748
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.009000000000014552
+Trajectory received!
+Interpolation time:  0.0
+Time delay -0.0030000000000143245
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.006000000000000227
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.0049999999999954525
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.006000000000000227
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0009999999999763531
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.003999999999990678
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.003999999999990678
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.005000000000023874
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.012999999999976808
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0020000000000095497
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.013999999999981583
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.006000000000000227
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0020000000000095497
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.006000000000000227
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.009000000000014552
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.003999999999990678
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.007000000000005002
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.002999999999985903
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0010000000000047748
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.0049999999999954525
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0009999999999763531
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0020000000000095497
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.004000000000019099
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.006000000000000227
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0020000000000095497
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0030000000000143245
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0049999999999954525
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0020000000000095497
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.007000000000005002
+Trajectory received!
+Interpolation time:  0.0009999999999763531
+Time delay 0.006000000000000227
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0049999999999954525
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.004000000000019099
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.01300000000000523
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.003999999999990678
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.006000000000000227
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0010000000000047748
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.003999999999990678
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.007000000000005002
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.001999999999981128
+Goal received!
+position: 
+  x: 2.4912073612213135
+  y: 0.9960801601409912
+  z: 0.0
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.3814082381235794
+  w: 0.9244067048066381
+-------- begin to track the waypoint --------
+time ahead 0.383
+error 0.21482111996302777 0.02722664086453661 0.23973776297604688
+vel 0.9089306523753312 0.30571418520056093
+ang_vel 0.7355438536971548 0.23371379104986031
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0069999999999765805
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0
+-------- begin to track the waypoint --------
+time ahead 0.323
+error 0.08308816279439657 0.010852596682022354 0.18237361386045559
+vel 0.631480424263385 0.14623620522073508
+ang_vel 0.7753834124923219 0.2245978980990185
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.0030000000000143245
+Trajectory received!
+Interpolation time:  0.0020000000000095497
+Time delay 0.006000000000000227
+-------- begin to track the waypoint --------
+time ahead 0.33099999999999996
+error 0.08817407004300394 0.015567703989547028 0.18421282489292656
+vel 0.6339789990004103 0.15157196994304498
+ang_vel 0.7592527442407134 0.25671079829711446
+Trajectory received!
+Interpolation time:  0.0020000000000095497
+Time delay 0.006000000000000227
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0049999999999954525
+-------- begin to track the waypoint --------
+time ahead 0.33099999999999996
+error 0.05619637581591905 0.017857323141903202 0.17148264621128045
+vel 0.46830437517121093 0.10302681333304015
+ang_vel 0.787914035708569 0.4113633371061462
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0049999999999954525
+-------- begin to track the waypoint --------
+time ahead 0.33199999999999996
+error 0.06577826167323525 0.026180557738351023 0.14748192889939796
+vel 0.47448241569049565 0.11322650324228481
+ang_vel 0.7586526082187862 0.4626906375108559
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0
+Trajectory received!
+Interpolation time:  0.0009999999999763531
+Time delay 0.007999999999981355
+-------- begin to track the waypoint --------
+time ahead 0.316
+error 0.08911144047412728 0.03800295274658315 0.1290258629109616
+vel 0.6073919946096717 0.14985063993509445
+ang_vel 0.6935647765817264 0.4422097815501347
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.003999999999990678
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.012000000000000455
+-------- begin to track the waypoint --------
+time ahead 0.33699999999999997
+error 0.12369666775577365 0.05578444553673797 0.1317610114699525
+vel 0.7129628501793446 0.1949929527737081
+ang_vel 0.6511128707835214 0.4220164685906899
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0049999999999954525
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.014000000000010004
+-------- begin to track the waypoint --------
+time ahead 0.33299999999999996
+error 0.21892160391426163 0.0935441277764707 0.1328813319530029
+vel 0.9313759066889603 0.3120591945831577
+ang_vel 0.29772427963038195 0.3200512113980333
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.006000000000000227
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.006000000000000227
+-------- begin to track the waypoint --------
+time ahead 0.32999999999999996
+error 0.20633398408081652 0.09391134832966161 0.11044895661927256
+vel 0.9034011733377885 0.2966741014145954
+ang_vel 0.21290060955381 0.31946135732432385
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0049999999999954525
+Trajectory received!
+Interpolation time:  0.0009999999999763531
+Time delay 0.009999999999990905
+-------- begin to track the waypoint --------
+time ahead 0.33299999999999996
+error 0.21491042888822573 0.10425347747223959 0.12224504210670578
+vel 0.9089471402696078 0.3058051429151865
+ang_vel 0.2318649829340405 0.33641512734448914
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0010000000000047748
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.014999999999986358
+-------- begin to track the waypoint --------
+time ahead 0.329
+error 0.1889999651414995 0.09439867343093164 0.06281678595756035
+vel 0.9072420354021844 0.27972416868171796
+ang_vel 0.15956897062187805 0.3280964302170583
+Trajectory received!
+Interpolation time:  0.0020000000000095497
+Time delay 0.00899999999998613
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.007000000000005002
+-------- begin to track the waypoint --------
+time ahead 0.322
+error 0.16885167376875368 0.08812812947744356 0.01011011158172026
+vel 0.9056356005380668 0.2594152338225604
+ang_vel -0.008552360584875206 0.31109500005564683
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.002999999999985903
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0020000000000095497
+-------- begin to track the waypoint --------
+time ahead 0.33099999999999996
+error 0.18107186935567834 0.09544476147518419 -0.011520815911741311
+vel 0.9195505260784663 0.27302692196352496
+ang_vel -0.02655192099649677 0.29293907438138067
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.006000000000000227
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.007999999999981355
+-------- begin to track the waypoint --------
+time ahead 0.319
+error 0.17254414238740268 0.08962471120118722 -0.07427661424627907
+vel 0.897555180734745 0.26229966046087716
+ang_vel -0.13327988913046124 0.2496414214387926
+Trajectory received!
+Interpolation time:  0.0020000000000095497
+Time delay 0.009000000000014552
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.0049999999999954525
+-------- begin to track the waypoint --------
+time ahead 0.33199999999999996
+error 0.1811998959153649 0.09303929963511878 -0.10475110124221515
+vel 0.9156828949335913 0.27276818540872405
+ang_vel -0.15917809830653984 0.21869856359666273
+Trajectory received!
+Interpolation time:  0.002999999999985903
+Time delay 0.006000000000000227
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.007999999999981355
+-------- begin to track the waypoint --------
+time ahead 0.329
+error 0.17979821842227214 0.09823945506760948 -0.07266960005990869
+vel 0.9150938634198018 0.2713076047642523
+ang_vel -0.07588682659432927 0.2585363148250719
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.009000000000014552
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.01099999999999568
+-------- begin to track the waypoint --------
+time ahead 0.325
+error 0.1866076094206173 0.10976878447572878 -0.05748526973396256
+vel 0.8948064074768194 0.27608825016829924
+ang_vel -0.2894414807996788 0.2784495195801513
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.011000000000024102
+Trajectory received!
+Interpolation time:  0.0020000000000095497
+Time delay 0.008000000000009777
+-------- begin to track the waypoint --------
+time ahead 0.328
+error 0.17871445912683415 0.10637553954332833 -0.09426667134850031
+vel 0.9160742240574828 0.2703218815325824
+ang_vel -0.23335105557043212 0.27410553326690035
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0030000000000143245
+-------- begin to track the waypoint --------
+time ahead 0.33699999999999997
+error 0.18445602447086626 0.10811206226839155 -0.13969571597561703
+vel 0.9232191808136527 0.27677794255223154
+ang_vel -0.27911889385622973 0.23363162078390093
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.028999999999996362
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0
+-------- begin to track the waypoint --------
+time ahead 0.33699999999999997
+error 0.17411683156362753 0.10572243596638778 -0.16969057867322102
+vel 0.9036210019930191 0.26447893176292947
+ang_vel -0.48664206225632306 0.22558176037088995
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0020000000000095497
+Trajectory received!
+Interpolation time:  0.0
+Time delay -0.001999999999981128
+-------- begin to track the waypoint --------
+time ahead 0.33099999999999996
+error 0.14328472954583707 0.09459078558201128 -0.17073486213156025
+vel 0.787757409780812 0.22206047052391828
+ang_vel -0.5700791430830003 0.2840061330522108
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.0049999999999954525
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.006000000000000227
+-------- begin to track the waypoint --------
+time ahead 0.329
+error 0.18009341337529916 0.12267365372859809 -0.10453241736711627
+vel 0.9129979285759979 0.271393206232899
+ang_vel -0.4132598020062111 0.31119977600211896
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.006000000000000227
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0
+-------- begin to track the waypoint --------
+time ahead 0.319
+error 0.17411691549421887 0.12031802003018344 -0.14476025723886543
+vel 0.9023152690775847 0.26434844240197736
+ang_vel -0.5250059283232896 0.291301570079597
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.006000000000000227
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.006000000000000227
+-------- begin to track the waypoint --------
+time ahead 0.34199999999999997
+error 0.05555538575782227 0.05483177673813122 -0.19026504610846834
+vel 0.4862672870523927 0.10418211446306154
+ang_vel -0.687853332289616 0.7011589119622781
+Trajectory received!
+Interpolation time:  0.0009999999999763531
+Time delay 0.01099999999999568
+Trajectory received!
+Interpolation time:  0.0020000000000095497
+Time delay 0.008000000000009777
+-------- begin to track the waypoint --------
+time ahead 0.33899999999999997
+error 0.04143098047713536 0.05260094983979194 -0.21573522632795183
+vel 0.29273472439457177 0.07070445291659254
+ang_vel -0.7672225719721608 1.0265968992879326
+Trajectory received!
+Interpolation time:  0.0030000000000143245
+Time delay 0.003999999999990678
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.006000000000000227
+-------- begin to track the waypoint --------
+time ahead 0.346
+error 0.09269469436846309 0.08597675485153697 -0.21039697137754088
+vel 0.547332225752617 0.14742791694372478
+ang_vel -0.7897672021321207 0.5309783422337588
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.008000000000009777
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.01099999999999568
+-------- begin to track the waypoint --------
+time ahead 0.36
+error 0.062387866398068016 0.06772891516273499 -0.21391026193064533
+vel 0.40612287451422435 0.10300015384949046
+ang_vel -0.8556493439670265 0.7754509133950032
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0020000000000095497
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.006000000000000227
+-------- begin to track the waypoint --------
+time ahead 0.348
+error 0.0024600970956919245 0.024808571206117014 -0.193683479027702
+vel 0.04918369486835816 0.0073784665825277415
+ang_vel -0.8606533580082752 2.152249525248222
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.003999999999990678
+-------- begin to track the waypoint --------
+time ahead 0.35
+error 0.017916776891341652 0.033871967412548803 -0.18748976066243095
+vel 0.024140776714771224 0.020330854562818773
+ang_vel -0.8641672048868836 1.6467314531602821
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.010000000000019327
+-------- begin to track the waypoint --------
+time ahead 0.349
+error 0.018727057406288928 0.03271593886599153 -0.15674674384717158
+vel 0.01701973523786313 0.02042903093007524
+ang_vel -0.8552803273870777 1.6317251346879758
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.009999999999990905
+Trajectory received!
+Interpolation time:  0.006000000000000227
+Time delay 0.018000000000000682
+-------- begin to track the waypoint --------
+time ahead 0.34299999999999997
+error 0.01282059409935113 0.026308967719428034 -0.10635166463031265
+vel -0.030740998580774906 0.009746494241273638
+ang_vel -0.8443995904588653 1.8396071152093334
+Trajectory received!
+Interpolation time:  0.0009999999999763531
+Time delay 0.0049999999999954525
+Trajectory received!
+Interpolation time:  0.0030000000000143245
+Time delay 0.014000000000010004
+-------- begin to track the waypoint --------
+time ahead 0.329
+error 0.01636897255887717 0.027990066647805373 -0.06233717738861566
+vel -0.016873839919910257 0.014681588566886143
+ang_vel -0.7899454384661662 1.7360579861235896
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.009000000000014552
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.014999999999986358
+-------- begin to track the waypoint --------
+time ahead 0.34199999999999997
+error 0.023257545532256858 0.032668745951185796 -0.008221124539052438
+vel -0.03707698070251066 0.01954984746200579
+ang_vel -0.8281017785286277 1.5439600032359793
+Trajectory received!
+Interpolation time:  0.001999999999981128
+Time delay 0.009999999999990905
+Trajectory received!
+-------- begin to track the waypoint --------
+Interpolation time:  0.0030000000000143245
+Time delay 0.027999999999991587
+time ahead 0.328
+error 0.03528417417124628 0.04371882282821005 0.036555851341685264
+vel -0.03549605311457418 0.03173456885978886
+ang_vel -0.8262544242135471 1.3737317718402386
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.012000000000000455
+Trajectory received!
+-------- begin to track the waypoint --------
+Interpolation time:  0.0020000000000095497
+Time delay 0.015999999999991132
+time ahead 0.318
+error 0.0336446238098288 0.03834264951252109 0.021403488717236296
+vel -0.04318852021178361 0.029325771788650437
+ang_vel -0.8141720984455798 1.4270087135498235
+Trajectory received!
+Interpolation time:  0.001999999999981128
+Time delay 0.013999999999981583
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.01500000000001478
+-------- begin to track the waypoint --------
+time ahead 0.33599999999999997
+error 0.04080616352651506 0.041295240379198656 -0.02288287975872616
+vel -0.003120157929726374 0.04049414773354242
+ang_vel -0.8343584982170029 1.4714346241877214
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.012000000000000455
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.007000000000005002
+-------- begin to track the waypoint --------
+time ahead 0.329
+error 0.0471696443628572 0.03987277527962699 -0.05438074991955655
+vel -0.0176059530660718 0.04540904905625002
+ang_vel -0.831284750073804 1.5473765364464436
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.008000000000009777
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.009999999999990905
+-------- begin to track the waypoint --------
+time ahead 0.33399999999999996
+error 0.052764300611236735 0.03497419044168282 -0.09265329518426868
+vel -0.03141627062711054 0.04962267354852568
+ang_vel -0.8347593707579595 1.599538012542761
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.016000000000019554
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.012999999999976808
+-------- begin to track the waypoint --------
+time ahead 0.325
+error 0.05449332809419575 0.027213491791307082 -0.10050168663327086
+vel -0.039881416266391856 0.05050518646755656
+ang_vel -0.8453393676582203 1.6410380919550356
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.006000000000000227
+-------- begin to track the waypoint --------
+time ahead 0.325
+error 0.06704356789682747 0.02831636528436421 -0.10264202179731674
+vel -0.036861764679023114 0.06335739142892516
+ang_vel -0.8242515155272194 1.561225381365254
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.02400000000000091
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.012000000000000455
+-------- begin to track the waypoint --------
+time ahead 0.32
+error 0.07504684176743551 0.026544971291011216 -0.10380166053523299
+vel -0.04319381305753034 0.07072746046168248
+ang_vel -0.8218158779488278 1.4980541114545058
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.016000000000019554
+Trajectory received!
+-------- begin to track the waypoint --------
+Interpolation time:  0.0
+Time delay 0.012000000000000455
+time ahead 0.312
+error 0.07932834122103762 0.023313049883681686 -0.1148096945814121
+vel -0.046321021231826486 0.07469623909785497
+ang_vel -0.8189483951967225 1.4458591374410077
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.01999999999998181
+Trajectory received!
+-------- begin to track the waypoint --------
+Interpolation time:  0.0
+Time delay 0.02800000000002001
+time ahead 0.33999999999999997
+error 0.08775705465985234 0.024458781211272707 -0.1294810551928811
+vel -0.03595941503137174 0.08416111315671516
+ang_vel -0.8371260937948646 1.327464247331467
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0
+Trajectory received!
+Interpolation time:  0.0020000000000095497
+Time delay 0.021000000000015007
+-------- begin to track the waypoint --------
+time ahead 0.33399999999999996
+error 0.09670498874394888 0.027688330362984515 -0.097745020953941
+vel -0.026040324330593806 0.0941009563108895
+ang_vel -0.8401328757836979 1.2279636095878066
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.01099999999999568
+Trajectory received!
+-------- begin to track the waypoint --------
+Interpolation time:  0.0
+Time delay 0.025000000000005684
+time ahead 0.33799999999999997
+error 0.09643909206835496 0.022843074766415672 -0.10491647100499613
+vel -0.024167926508787664 0.0940222994174762
+ang_vel -0.8014968345606844 1.1928947134597498
+Trajectory received!
+Interpolation time:  0.0020000000000095497
+Time delay 0.014000000000010004
+Trajectory received!
+-------- begin to track the waypoint --------
+time ahead 0.345
+error 0.09505249124350484 0.01611863114839962 -0.20494019040212308
+vel 0.024171356180082967 0.09746962686151314
+ang_vel -0.6719046522037355 1.2229513998657173
+Interpolation time:  0.001999999999981128
+Time delay 0.05299999999999727
+Trajectory received!
+Interpolation time:  0.0030000000000143245
+Time delay 0.02200000000001978
+Trajectory received!
+Interpolation time:  0.001999999999981128
+Time delay 0.015999999999991132
+-------- begin to track the waypoint --------
+time ahead 0.329
+error 0.11777743228550629 0.02619885195690025 -0.007587813986943637
+vel -0.028231575391242512 0.11495427474638203
+ang_vel -0.852385354656191 1.0717110665184864
+Trajectory received!
+Interpolation time:  0.0020000000000095497
+Time delay 0.02200000000001978
+Trajectory received!
+-------- begin to track the waypoint --------
+Interpolation time:  0.0020000000000095497
+Time delay 0.02200000000001978
+time ahead 0.326
+error 0.12982449078987715 0.02509344949744624 0.018028513997315088
+vel -0.004809817546151859 0.12934350903526196
+ang_vel -0.7942682876847751 1.0537902613944934
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.023000000000024556
+Trajectory received!
+Interpolation time:  0.0020000000000095497
+Time delay 0.014000000000010004
+-------- begin to track the waypoint --------
+time ahead 0.323
+error 0.14636664306849903 0.023621973907530014 0.08660273259584184
+vel -0.011711792678798048 0.14519546380061923
+ang_vel -0.8237623827648817 1.0346865786185693
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.01500000000001478
+Trajectory received!
+-------- begin to track the waypoint --------
+Interpolation time:  0.0
+Time delay 0.025999999999982037
+time ahead 0.349
+error 0.16312351038811237 0.016644058437378317 0.08980751998818182
+vel 0.017607391943765063 0.16488424958248887
+ang_vel -0.8580045321498057 1.0315296341643125
+Trajectory received!
+Interpolation time:  0.001999999999981128
+Time delay 0.02199999999999136
+Trajectory received!
+-------- begin to track the waypoint --------
+time ahead 0.344
+error 0.16582719366748772 0.008642865237931951 0.3233581980092013
+vel 0.01568530286582547 0.16739572395407026
+ang_vel -0.8555461634662739 1.0242631575419938
+Interpolation time:  0.0009999999999763531
+Time delay 0.04800000000000182
+Trajectory received!
+Interpolation time:  0.0020000000000095497
+Time delay 0.01300000000000523
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.01300000000000523
+-------- begin to track the waypoint --------
+time ahead 0.346
+error 0.1749302633104082 -0.0020185451949441546 0.07329918926301682
+vel 0.019733831758357606 0.17690364648624396
+ang_vel -0.8137870400730126 -0.8819665060859665
+Trajectory received!
+Interpolation time:  0.0009999999999763531
+Time delay 0.012000000000000455
+-------- begin to track the waypoint --------
+Trajectory received!
+time ahead 0.33899999999999997
+error 0.16225499589454526 -0.0037326706936130494 1.5256241138364999
+vel 0.02152231712971779 0.16440722760751703
+ang_vel -0.8212478872658246 -0.8358656160795184
+Interpolation time:  0.0010000000000047748
+Time delay 0.03999999999999204
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.03899999999998727
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.019000000000005457
+-------- begin to track the waypoint --------
+time ahead 0.33999999999999997
+error 0.194289164566286 -0.007457631148579558 2.5912108818041455
+vel 0.015449030433760036 0.19583406760966202
+ang_vel -0.8468863239691552 -0.7432802303847457
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.018000000000000682
+Trajectory received!
+-------- begin to track the waypoint --------
+Interpolation time:  0.0010000000000047748
+Time delay 0.02400000000000091
+time ahead 0.326
+error 0.15804646703981193 -0.005494864552211209 0.16315965731381565
+vel 0.0143569915344392 0.15948216619325584
+ang_vel -0.7813933500294231 -0.6566855010427891
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.019000000000005457
+Trajectory received!
+-------- begin to track the waypoint --------
+Interpolation time:  0.009999999999990905
+Time delay 0.033999999999991815
+time ahead 0.35
+error 0.16327364970544905 -0.006067405967907946 0.30224164173929946
+vel -0.024894549152050756 0.16078419479024397
+ang_vel -0.8191587718772224 -0.5741557469667404
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.018999999999977035
+Trajectory received!
+Interpolation time:  0.002999999999985903
+Time delay 0.014000000000010004
+-------- begin to track the waypoint --------
+time ahead 0.319
+error 0.16514459740128568 -0.00895105579028449 0.26739607912255536
+vel 0.00018787136388294465 0.16516338453767396
+ang_vel -0.8027883766934336 -0.5116073832696668
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.018000000000000682
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.014999999999986358
+-------- begin to track the waypoint --------
+time ahead 0.319
+error 0.1522028313358788 -0.0131657456121409 0.25382963301918515
+vel 0.022735192030044184 0.15447635053888323
+ang_vel -0.8153866482158661 -0.4350680563637464
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.018000000000000682
+Trajectory received!
+-------- begin to track the waypoint --------
+Interpolation time:  0.0010000000000047748
+Time delay 0.02600000000001046
+time ahead 0.328
+error 0.13796754985097523 -0.02119041683518902 0.2552772610192977
+vel -0.022393569750246207 0.13572819287595062
+ang_vel -0.7950129393714513 -0.3262882359833791
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.008000000000009777
+Trajectory received!
+-------- begin to track the waypoint --------
+Interpolation time:  0.0010000000000047748
+Time delay 0.014999999999986358
+time ahead 0.326
+error 0.14758198681567528 -0.022922684023912065 0.25005410691493557
+vel -0.007282291277044987 0.14685375768797077
+ang_vel -0.7923281766275967 -0.29763247933999415
+Trajectory received!
+Interpolation time:  0.0020000000000095497
+Time delay 0.01300000000000523
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.009999999999990905
+-------- begin to track the waypoint --------
+time ahead 0.347
+error 0.12983332089396143 -0.03138250545045296 0.2170015912179304
+vel -0.016170875350368707 0.12821623335892457
+ang_vel -0.7585171694841688 -0.1965342141832267
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.014000000000010004
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.01500000000001478
+-------- begin to track the waypoint --------
+time ahead 0.353
+error 0.11750598579235678 -0.038822787282357885 0.21299996554274347
+vel -0.03647528547109387 0.1138584572452474
+ang_vel -0.8286967902487055 -0.12203299853827443
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.016999999999995907
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.015999999999991132
+-------- begin to track the waypoint --------
+time ahead 0.354
+error 0.11974114690363688 -0.04116007809076727 0.2024520723392902
+vel -0.02431038716768528 0.11731010818686835
+ang_vel -0.8290703393856731 -0.10672243242594603
+Trajectory received!
+Interpolation time:  0.003999999999990678
+Time delay 0.02600000000001046
+Trajectory received!
+-------- begin to track the waypoint --------
+Interpolation time:  0.0
+Time delay 0.02200000000001978
+time ahead 0.322
+error 0.1305292773055194 -0.03949912680247947 0.22665711274212708
+vel 0.02294149286073832 0.1328234265915932
+ang_vel -0.7888001392075727 -0.12844187454508882
+Trajectory received!
+Interpolation time:  0.0009999999999763531
+Time delay 0.03999999999999204
+Trajectory received!
+-------- begin to track the waypoint --------
+Interpolation time:  0.01099999999999568
+Time delay 0.02600000000001046
+Trajectory received!
+time ahead 0.313
+error 0.1115061504556772 -0.05193132804512879 0.2376944807389787
+vel -0.019021055638940115 0.10960404489178319
+ang_vel -0.7747548121672659 -0.010514272689895576
+Interpolation time:  0.0010000000000047748
+Time delay 0.02400000000000091
+Trajectory received!
+Interpolation time:  0.0020000000000095497
+Time delay 0.014000000000010004
+-------- begin to track the waypoint --------
+time ahead 0.325
+error 0.12431310061470523 -0.04895799511630189 0.1696022216655142
+vel -0.03640574672964359 0.12067252594174087
+ang_vel -0.775461442059627 -0.05437993425693444
+Trajectory received!
+Interpolation time:  0.004000000000019099
+Time delay 0.034000000000020236
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.014999999999986358
+-------- begin to track the waypoint --------
+time ahead 0.324
+error 0.1126159811135204 -0.05741435425617153 0.202666043417441
+vel -0.030068369296454876 0.10960914418387492
+ang_vel -0.826977230504792 0.010884523887296993
+Trajectory received!
+Interpolation time:  0.0020000000000095497
+Time delay 0.025000000000005684
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.019000000000005457
+-------- begin to track the waypoint --------
+time ahead 0.32999999999999996
+error 0.11677314886682892 -0.05975131257380678 0.19166024187894815
+vel -0.022740283803428317 0.11449912048648608
+ang_vel -0.8427945823128976 0.009656817470856671
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.009999999999990905
+Trajectory received!
+-------- begin to track the waypoint --------
+Interpolation time:  0.0010000000000047748
+Time delay 0.038000000000010914
+time ahead 0.346
+error 0.11078925814510154 -0.0659323901246971 0.18484485908816772
+vel -0.024115709465794076 0.10837768719852213
+ang_vel -0.8433613653410552 0.0537920431757094
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.00899999999998613
+Trajectory received!
+-------- begin to track the waypoint --------
+Interpolation time:  0.003999999999990678
+Time delay 0.02600000000001046
+time ahead 0.326
+error 0.11108762091315073 -0.06920634715228347 0.20441224690822057
+vel -0.02788301783524121 0.1082993191296266
+ang_vel -0.8132277361349958 0.06953523271534034
+Trajectory received!
+Interpolation time:  0.0020000000000095497
+Time delay 0.014000000000010004
+Trajectory received!
+Interpolation time:  0.0020000000000095497
+Time delay 0.018000000000000682
+-------- begin to track the waypoint --------
+time ahead 0.323
+error 0.11266501314298487 -0.07212729668013229 0.20792022485082784
+vel -0.02565798792954925 0.11009921435002995
+ang_vel -0.8098337903126595 0.07655980348993818
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.019000000000005457
+Trajectory received!
+-------- begin to track the waypoint --------
+Interpolation time:  0.001999999999981128
+Time delay 0.01999999999998181
+time ahead 0.326
+error 0.11871249883173357 -0.07361911230588364 0.2061627252307736
+vel 0.010852722530401412 0.11979777108477371
+ang_vel -0.8145619979167973 0.06388800933790151
+Trajectory received!
+Interpolation time:  0.0020000000000095497
+Time delay 0.03100000000000591
+Trajectory received!
+-------- begin to track the waypoint --------
+Interpolation time:  0.0
+Time delay 0.02400000000000091
+time ahead 0.32999999999999996
+error 0.11220462017100204 -0.080765432080937 0.2063805170148192
+vel -0.019131155565104984 0.11029150461449154
+ang_vel -0.8181844411215349 0.10859138846897676
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.025000000000005684
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.007999999999981355
+-------- begin to track the waypoint --------
+time ahead 0.319
+error 0.11244741454446469 -0.08486849858197087 0.2156587068068312
+vel -0.025924724088596564 0.10985494213560504
+ang_vel -0.8023114246198673 0.12204617356001601
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.015999999999991132
+Trajectory received!
+-------- begin to track the waypoint --------
+Interpolation time:  0.0
+Time delay 0.012000000000000455
+time ahead 0.312
+error 0.11228050844276101 -0.08951735431548846 0.2218700972510126
+vel -0.029407013778299507 0.10933980706493106
+ang_vel -0.7917518209404927 0.13651711103681852
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.020000000000010232
+Trajectory received!
+-------- begin to track the waypoint --------
+Interpolation time:  0.012000000000000455
+Time delay 0.03100000000000591
+time ahead 0.33099999999999996
+error 0.11081765855641702 -0.09551560760194994 0.20455086447593773
+vel -0.031150539584220337 0.107702604597995
+ang_vel -0.8219157318833497 0.1545942721872604
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.015999999999991132
+Trajectory received!
+-------- begin to track the waypoint --------
+Interpolation time:  0.0
+Time delay 0.01099999999999568
+time ahead 0.315
+error 0.1167621456692057 -0.09761212415856269 0.22150193348644764
+vel -0.02428296264332439 0.11433384940487326
+ang_vel -0.800151914959747 0.14277387559224042
+Trajectory received!
+Interpolation time:  0.0009999999999763531
+Time delay 0.04599999999999227
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.0
+-------- begin to track the waypoint --------
+time ahead 0.33399999999999996
+error 0.11926728479777374 -0.10223059955223646 0.20961438487324413
+vel -0.018987384637758044 0.11736854633399793
+ang_vel -0.8252473334704449 0.1449472870244627
+Trajectory received!
+Interpolation time:  0.004000000000019099
+Time delay 0.018000000000000682
+Trajectory received!
+-------- begin to track the waypoint --------
+Interpolation time:  0.0
+Time delay 0.008000000000009777
+time ahead 0.311
+error 0.12154202998914648 -0.1065684721700918 0.23414225946960343
+vel -0.021814345720235054 0.11936059541712297
+ang_vel -0.7958155445096002 0.15240216018890773
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.02199999999999136
+Trajectory received!
+-------- begin to track the waypoint --------
+Interpolation time:  0.0010000000000047748
+Time delay 0.018000000000000682
+time ahead 0.32
+error 0.12348877717981084 -0.11207464351729501 0.23153018257397795
+vel -0.01775227192806926 0.12171354998700391
+ang_vel -0.8095714493102787 0.1590730924426459
+Trajectory received!
+Interpolation time:  0.003999999999990678
+Time delay 0.027000000000015234
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.01300000000000523
+-------- begin to track the waypoint --------
+time ahead 0.322
+error 0.12735302038424548 -0.11621202333393554 0.23438077026165516
+vel -0.014770744707585636 0.12587594591348691
+ang_vel -0.8097274764086824 0.15764681240003597
+Trajectory received!
+Interpolation time:  0.0020000000000095497
+Time delay 0.01500000000001478
+-------- begin to track the waypoint --------
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.016999999999995907
+time ahead 0.32
+error 0.12677940447976166 -0.12286499708115262 0.240227588938573
+vel -0.02542109867678439 0.12423729461208322
+ang_vel -0.8090764081993862 0.17560231370455825
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.012000000000000455
+-------- begin to track the waypoint --------
+time ahead 0.368
+error 0.12320211822724735 -0.12798887263314634 0.19266853000312034
+vel -0.024811742571233815 0.12072094397012396
+ang_vel -0.8626560906113809 0.19255550303179703
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.013999999999981583
+Trajectory received!
+Interpolation time:  0.0020000000000095497
+Time delay 0.016000000000019554
+Trajectory received!
+-------- begin to track the waypoint --------
+Interpolation time:  0.0010000000000047748
+Time delay 0.012000000000000455
+time ahead 0.319
+error 0.13800411160302148 -0.13097793578226746 0.25235503930604253
+vel 0.0170508483095136 0.13970919643397284
+ang_vel -0.8066841109364945 0.15894310108726517
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.03499999999999659
+Trajectory received!
+-------- begin to track the waypoint --------
+Interpolation time:  0.0010000000000047748
+Time delay 0.019000000000005457
+time ahead 0.323
+error 0.1371170623199567 -0.1372359871517152 0.25197375903955965
+vel 0.01601080889153422 0.13871814320911013
+ang_vel -0.8116667345593015 0.17465381483526132
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.014999999999986358
+Trajectory received!
+-------- begin to track the waypoint --------
+time ahead 0.33299999999999996
+error 0.14387857350272687 -0.14428500835059044 0.23772986787092876
+vel 0.0006879158276683877 0.14394736508549372
+ang_vel -0.8248462320510119 0.16905819312101944
+Interpolation time:  0.0030000000000143245
+Time delay 0.033999999999991815
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.023000000000024556
+Trajectory received!
+-------- begin to track the waypoint --------
+Interpolation time:  0.0
+Time delay 0.018999999999977035
+time ahead 0.327
+error 0.14144314672106476 -0.15082913282120897 0.23609217059210819
+vel 0.030837984726380562 0.14452694519370282
+ang_vel -0.7864474617218112 0.19361376347237635
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.01500000000001478
+Trajectory received!
+-------- begin to track the waypoint --------
+Interpolation time:  0.001999999999981128
+Time delay 0.020999999999986585
+time ahead 0.321
+error 0.15709438419887173 -0.15590133304779108 0.24858006034939706
+vel 0.038558855614602566 0.160950269760332
+ang_vel -0.7815339380281969 0.16088745351541278
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.014000000000010004
+-------- begin to track the waypoint --------
+Trajectory received!
+time ahead 0.381
+error 0.15508867043379598 -0.1646082717754455 0.1868131174953489
+vel 0.04836579659726477 0.15992525009352246
+ang_vel -0.8570345328581754 0.17465839475319866
+Interpolation time:  0.0009999999999763531
+Time delay 0.08399999999997476
+Trajectory received!
+Interpolation time:  0.0009999999999763531
+Time delay 0.03799999999998249
+Trajectory received!
+-------- begin to track the waypoint --------
+Interpolation time:  0.0010000000000047748
+Time delay 0.01999999999998181
+time ahead 0.322
+error 0.1704961845170578 -0.17103387036045958 0.5073237489425018
+vel 0.05123081873819155 0.17561926639087697
+ang_vel -0.81828506328579 0.15303888301869373
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.009999999999990905
+Trajectory received!
+-------- begin to track the waypoint --------
+Interpolation time:  0.0020000000000095497
+Time delay 0.03200000000001069
+time ahead 0.33399999999999996
+error 0.16612155342580262 -0.1801140025325692 0.4634701060294324
+vel 0.03717547298902406 0.16983910072470504
+ang_vel -0.830061595798713 0.18055360480445826
+Trajectory received!
+Interpolation time:  0.001999999999981128
+Time delay 0.0519999999999925
+Trajectory received!
+-------- begin to track the waypoint --------
+Interpolation time:  0.0
+Time delay 0.007999999999981355
+time ahead 0.316
+error 0.17558085981939764 -0.1885323662212463 0.29325324907917905
+vel 0.07888183826854439 0.18346904364625208
+ang_vel -0.779916933118283 0.17733096283398453
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.020999999999986585
+Trajectory received!
+-------- begin to track the waypoint --------
+time ahead 0.326
+error 0.16560450864949602 -0.19746614967750226 0.30384075582165204
+vel 0.06925951240501652 0.17253045988999768
+ang_vel -0.7979919221130974 0.21591540314650415
+Interpolation time:  0.0
+Time delay 0.02600000000001046
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.009000000000014552
+Trajectory received!
+Interpolation time:  0.001999999999981128
+Time delay 0.018000000000000682
+-------- begin to track the waypoint --------
+time ahead 0.322
+error 0.1822563277134917 -0.20741121457496986 0.2640817625987282
+vel 0.07030531637098399 0.18928685935059011
+ang_vel -0.7856504815772554 0.19261874770462029
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.04800000000000182
+Trajectory received!
+-------- begin to track the waypoint --------
+Interpolation time:  0.01500000000001478
+Time delay 0.027000000000015234
+time ahead 0.32999999999999996
+error 0.1857448862700485 -0.2186373653410909 0.3000227506544517
+vel 0.08548658337797757 0.19429354460784626
+ang_vel -0.7990186075613587 0.20127248798567354
+Trajectory received!
+Interpolation time:  0.002999999999985903
+Time delay 0.02199999999999136
+-------- begin to track the waypoint --------
+Trajectory received!
+time ahead 0.314
+error 0.17410758876443533 -0.2273930733752519 0.2707765489539953
+vel 0.06572873994156986 0.18068046275859231
+ang_vel -0.774464200158391 0.2456118821319302
+Interpolation time:  0.0009999999999763531
+Time delay 0.031999999999982265
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.016999999999995907
+Trajectory received!
+Interpolation time:  0.0020000000000095497
+Time delay 0.01099999999999568
+-------- begin to track the waypoint --------
+time ahead 0.322
+error 0.19100245989539674 -0.23986434791913935 0.3330506802296176
+vel 0.0710079924778156 0.1981032591431783
+ang_vel -0.8053259555879222 0.22011937823648808
+Trajectory received!
+Interpolation time:  0.0020000000000095497
+Time delay 0.022999999999996135
+Trajectory received!
+-------- begin to track the waypoint --------
+time ahead 0.319
+error 0.1889541733089714 -0.24978154170497696 0.3902903495854404
+vel 0.07071112844546755 0.19602528615351816
+ang_vel -0.8025225528030225 0.23899752094120952
+Interpolation time:  0.0
+Time delay 0.027999999999991587
+Trajectory received!
+-------- begin to track the waypoint --------
+Interpolation time:  0.0030000000000143245
+Time delay 0.05700000000001637
+Trajectory received!
+time ahead 0.31
+error 0.19230175811520736 -0.26257430566569034 2.4163727757216753
+vel 0.07260494057810331 0.19956225217301768
+ang_vel -0.7942948672415943 0.2501230957392795
+Interpolation time:  0.0010000000000047748
+Time delay 0.02400000000000091
+Trajectory received!
+Interpolation time:  0.0030000000000143245
+Time delay 0.016999999999995907
+Trajectory received!
+-------- begin to track the waypoint --------
+Interpolation time:  0.0010000000000047748
+Time delay 0.025000000000005684
+time ahead 0.33099999999999996
+error 0.21698190694650304 -0.27672112473534266 1.6636364649139272
+vel 0.07648030421863605 0.22462993736836664
+ang_vel -0.8085621679825331 0.21118694170718277
+Trajectory received!
+Interpolation time:  0.0020000000000095497
+Time delay 0.056000000000011596
+Trajectory received!
+-------- begin to track the waypoint --------
+time ahead 0.321
+error 0.20441859354150074 -0.28730175823501936 2.640703406674377
+vel 0.06371529373411412 0.21079012291491214
+ang_vel -0.8145064088669368 0.2534718995941926
+Interpolation time:  0.0
+Time delay 0.03100000000000591
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.021000000000015007
+Trajectory received!
+-------- begin to track the waypoint --------
+Interpolation time:  0.0010000000000047748
+Time delay 0.02199999999999136
+time ahead 0.33099999999999996
+error 0.21527620880845544 -0.30429185379069407 0.5837674248684204
+vel 0.06546580316213917 0.22182278912466935
+ang_vel -0.7978009487609342 0.25258719758783865
+Trajectory received!
+Interpolation time:  0.00899999999998613
+Time delay 0.02400000000000091
+Trajectory received!
+-------- begin to track the waypoint --------
+Interpolation time:  0.001999999999981128
+Time delay 0.03299999999998704
+time ahead 0.355
+error 0.22156088163218074 -0.31973105102086036 3.121827776734736
+vel 0.036541982556174295 0.22521507988779818
+ang_vel -0.8591633749810526 0.2521358849686606
+Trajectory received!
+Interpolation time:  0.0009999999999763531
+Time delay 0.033999999999991815
+Trajectory received!
+-------- begin to track the waypoint --------
+Interpolation time:  0.0
+Time delay 0.01700000000002433
+time ahead 0.33499999999999996
+error 0.22843330252170368 -0.3319698571309232 0.011956860641506584
+vel 0.07895147057458131 0.23632844957916183
+ang_vel -0.6343584252479425 0.27418731482203074
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.02200000000001978
+Trajectory received!
+-------- begin to track the waypoint --------
+time ahead 0.327
+error 0.2391130411963224 -0.34514682530956703 2.2952121237825494
+vel 0.08016027912003466 0.24712906910832586
+ang_vel -0.8353882087878906 0.24623529676678413
+Interpolation time:  0.0010000000000047748
+Time delay 0.036000000000001364
+Trajectory received!
+Interpolation time:  0.01099999999999568
+Time delay 0.03100000000000591
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.014000000000010004
+-------- begin to track the waypoint --------
+time ahead 0.321
+error 0.25140306510298643 -0.3617596777777318 1.1560069975256413
+vel 0.06717977659785311 0.25812104276277176
+ang_vel -0.8026060111504648 0.24361874732004052
+Trajectory received!
+Interpolation time:  0.0010000000000047748
+Time delay 0.02400000000000091
+Trajectory received!
+[INFO] [1682570066.307221, 194.388000]: Shutting down leader node!
+Interpolation time:  0.002999999999985903
+Time delay 0.04999999999998295
+Trajectory received!
+Interpolation time:  0.004000000000019099
+Time delay 0.019000000000005457
+Trajectory received!
+Interpolation time:  0.0020000000000095497
+Time delay 0.02600000000001046
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.009999999999990905
+Trajectory received!
+Interpolation time:  0.0009999999999763531
+Time delay 0.026999999999986812
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.021000000000015007
+Trajectory received!
+Interpolation time:  0.0
+Time delay 0.009999999999990905
+Trajectory received!
+Interpolation time:  0.0
+Time delay

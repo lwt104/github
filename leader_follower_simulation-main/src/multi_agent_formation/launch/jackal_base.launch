@@ -1,0 +1,100 @@
+<launch>
+  <arg name="ns" default="robot_1" />
+  <arg name="use_move_base" default="false"/>  
+  <arg name="x" default="0" />
+  <arg name="y" default="0" />
+  <arg name="z" default="1" />
+  <arg name="yaw" default="0" />
+  <arg name="joystick" default="true" />
+  <arg name="config"    default="base" /> 		<!-- options in description/urdf/configs-->
+  <arg name="config_id" default="1"/>
+
+  <!-- Short-term hack to support the original front_laser:=true argument for spawning
+       the simulator. This will be removed in favour of using the config:=x arg instead. -->
+
+  <!-- Configuration of Jackal which you would like to simulate.
+       See jackal_description for details. -->
+
+  <!-- Load Jackal's description, controllers, and teleop nodes. -->
+  
+  <include file="$(find multi_jackal_description)/launch/jackal_description.launch">
+    <arg name="ns"        value="$(arg ns)"/>
+    <arg name="config"    value="$(arg config)"/>
+    <arg name="config_id" value="$(arg config_id)"/>
+  </include>
+  
+
+  <node name="joint_state_publisher" pkg="joint_state_publisher" type="joint_state_publisher" ns="$(arg ns)">
+    <param name="tf_prefix" value="$(arg ns)" />
+  </node>
+
+
+  <include file="$(find multi_agent_formation)/launch/jackal_control.launch">
+    <arg name="ns" value="$(arg ns)" />
+  </include>
+
+  <include file="$(find multi_agent_formation)/launch/jackal_teleop.launch">
+    <arg name="ns" value="$(arg ns)" />
+    <arg name="joystick" value="$(arg joystick)" />
+  </include>
+
+  <!-- Spawn Jackal -->
+  <node name="urdf_spawner" pkg="gazebo_ros" type="spawn_model" ns="$(arg ns)"
+	      args="-urdf -model $(arg ns) -param /$(arg ns)/robot_description -x $(arg x) -y $(arg y) -z $(arg z) -R 0 -P 0 -Y $(arg yaw)" />
+
+  <node pkg="tf" type="static_transform_publisher" name="map_odom_broadcaster" 
+          ns="$(arg ns)" args="$(arg x) $(arg y) 0 $(arg yaw) 0 0 map $(arg ns)/odom 100" />
+
+  <!-- <include file="$(find pointcloud_to_laserscan)/launch/sample_node.launch)">
+    <param >
+  </include> -->
+
+  <!-- Move base. Takes desired location commands and sends velocity commands to get it there. -->
+  <group if="$(arg use_move_base)">
+    <node pkg="move_base" type="move_base" respawn="false" name="move_base" ns="$(arg ns)" output="screen">
+      <rosparam file="$(find multi_agent_formation)/configs/costmap_common_params.yaml" command="load" ns="global_costmap" />
+      <rosparam file="$(find multi_agent_formation)/configs/costmap_common_params.yaml" command="load" ns="local_costmap" />
+      <rosparam file="$(find multi_agent_formation)/configs/odom_nav_params/global_costmap_params.yaml" command="load" />
+      <rosparam file="$(find multi_agent_formation)/configs/odom_nav_params/local_costmap_params.yaml"  command="load" />
+      <rosparam file="$(find multi_agent_formation)/configs/teb_local_planner_params.yaml" command="load" />
+      <rosparam file="$(find multi_agent_formation)/configs/move_base_params.yaml" command="load" />
+      <rosparam file="$(find multi_agent_formation)/configs/global_planner_params.yaml" command="load" />      
+      <param name="base_global_planner"               value="global_planner/GlobalPlanner" /> 
+      <param name="planner_frequency"                 value="5.0" />
+      <param name="planner_patience"                  value="5.0" />
+      <param name="base_local_planner"                value="teb_local_planner/TebLocalPlannerROS"/>
+      <param name="controller_frequency"              value="20.0"/>
+      <param name="controller_patience"               value="15.0"/>
+      <param name="global_costmap/global_frame"       value="$(arg ns)/odom"/>
+      <param name="global_costmap/robot_base_frame"   value="$(arg ns)/base_link"/>
+      <param name="local_costmap/global_frame"        value="$(arg ns)/odom"/>
+      <param name="local_costmap/robot_base_frame"    value="$(arg ns)/base_link"/>
+      <remap from="/move_base_simple/goal"    to="/$(arg ns)/move_base_simple/goal" />
+      <rosparam param="global_costmap/obstacles_layer/scan" subst_value="true">
+        {sensor_frame: $(arg ns)/base_link,
+         data_type: LaserScan,
+         topic: front/scan,
+         marking: true,
+         clearing: true,
+         min_obstacle_height: -2.0,
+         max_obstacle_height: 2.0,
+         obstacle_range: 25,
+         raytrace_range: 50}
+      </rosparam>
+      <rosparam param="local_costmap/obstacles_layer/scan" subst_value="true">
+        {sensor_frame: $(arg ns)/base_link,
+         data_type: LaserScan,
+         topic: front/scan,
+         marking: true,
+         clearing: true,
+         min_obstacle_height: -2.0,
+         max_obstacle_height: 2.0,
+         obstacle_range: 25,
+         raytrace_range: 50}
+      </rosparam>
+      <remap from="odom"    to="odometry/filtered" />
+      <remap from="cmd_vel" to="jackal_velocity_controller/cmd_vel"/>
+    </node>
+  </group>
+
+</launch>

@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+
+<launch>
+    <arg name="robot_namespace" default="robot_1"/>
+    <arg name="tf_prefix" default="$(arg robot_namespace)"/>
+    <arg name="x" default="0.0"/>
+    <arg name="y" default="0.0"/>
+    <arg name="z" default="1" />
+    <arg name="yaw" default="0.0"/>
+
+    <param name="robot_description" command="$(find xacro)/xacro --inorder '$(find turtlebot_description)/robots/kobuki_hexagons_kinect.urdf.xacro' robot_namespace:=$(arg robot_namespace)" />
+
+    <!-- Spawn robot in gazebo -->
+    <node name="spawn_model_$(arg robot_namespace)" pkg="gazebo_ros" type="spawn_model" 
+        args="-x $(arg x) -y $(arg y) -Y $(arg yaw) -unpause -urdf -param robot_description -model $(arg robot_namespace)" respawn="false" output="screen" />
+
+    <!-- Control robot in gazebo -->
+    <node pkg="nodelet" type="nodelet" name="mobile_base_nodelet_manager_$(arg robot_namespace)" args="manager"/>
+    <node pkg="nodelet" type="nodelet" name="cmd_vel_mux_$(arg robot_namespace)"
+          args="load yocs_cmd_vel_mux/CmdVelMuxNodelet mobile_base_nodelet_manager_$(arg robot_namespace)">
+      <param name="yaml_cfg_file" value="$(find turtlebot_bringup)/param/mux.yaml" />
+      <remap from="cmd_vel_mux_$(arg robot_namespace)/output" to="mobile_base/commands/velocity"/>
+    </node>
+
+    <node name="robot_state_publisher_$(arg robot_namespace)" pkg="robot_state_publisher" type="robot_state_publisher">
+      <param name="publish_frequency" type="double" value="50.0" />
+      <param name="tf_prefix" value="$(arg tf_prefix)" />
+    </node>
+
+    <node pkg="tf" type="static_transform_publisher" name="map_odom_broadcaster_$(arg robot_namespace)" args="$(arg x) $(arg y) 0 $(arg yaw) 0 0 /map /$(arg tf_prefix)/odom 100" />
+
+</launch>

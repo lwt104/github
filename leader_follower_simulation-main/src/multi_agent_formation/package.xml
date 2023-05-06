@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<package>
+  <name>multi_agent_formation</name>
+  <version>1.0.0</version>
+  <description>Realize multi-agent formation control.</description>
+
+  <maintainer email="lusha@zju.edu.cn">Sha Lu</maintainer>
+ 
+
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>rospy</build_depend>
+  <build_depend>stage_ros</build_depend>
+  <build_depend>teb_local_planner</build_depend>
+  <build_depend>move_base</build_depend>
+  <build_depend>sensor_msgs</build_depend>
+  <build_depend>std_msgs</build_depend>
+  <build_depend>nav_msgs</build_depend>
+  <build_depend>gazebo_msgs</build_depend>
+  <build_depend>geometry_msgs</build_depend>
+  <build_depend>message_runtime</build_depend>
+  <build_depend>message_generation</build_depend>
+  <build_depend>tf</build_depend>
+ 
+  <run_depend>rospy</run_depend>
+  <run_depend>stage_ros</run_depend>
+  <run_depend>teb_local_planner</run_depend>
+  <run_depend>move_base</run_depend>
+  <run_depend>sensor_msgs</run_depend>
+  <run_depend>std_msgs</run_depend>
+  <run_depend>nav_msgs</run_depend>
+  <run_depend>gazebo_msgs</run_depend>
+  <run_depend>geometry_msgs</run_depend>
+  <run_depend>message_runtime</run_depend>
+  <run_depend>message_generation</run_depend>
+  <run_depend>tf</run_depend>
+
+  <export>
+
+  </export>
+</package>
