@@ -1,0 +1,41 @@
+#python
+ 
+1、try:
+      ...
+   except rospy.ROSInterruptException:
+      pass
+在try后的程序异常时，执行except后的语句，而不是报错退出
+
+2、rospy.init_node(f'leader'，anonymous=True)
+将此python节点名设为..., f'':format
+anonymous=True指的是节点可重名，无特殊情况，最好不带此参数，避免重名冲突
+
+3、rospy.on_shutdown(h)
+关闭节点，h函数不带参数(h函数中可以写关闭节点所需要进行的操作，例如发布cmd_vel为0)
+
+4、while not rospy.is_shutdowm():
+3、4分别是，关闭时做某些操作和不关闭时做某些操作
+
+5、self.rate = rospy.Rate(10)
+
+6、rospy.spin() 在调用后不会返回，程序不继续进行下去
+   rospy.spinOnce()在调用后继续执行后续的程序
+   写了订阅者和回调函数之后，加上rospy.spin()或rospy.spinOnce()，主函数运行到此才会去执行回调函数
+
+6、rospy.Time.now(), rospy.get_rostime()两个是相同的，包含了to_sec()和to_nsec()
+int32 secs时间   int32 nsecs持续时间(例：一个小时) 
+类型分别是 Time 和 Duration ，可以相互转换，即时刻和时间的转换
+创建时间：epoch = rospy.Time() # secs=nsecs=0
+  	 t = rospy.Time(10) # t.secs=10
+	 t = rospy.Time(12345, 6789)
+
+7、rate = rospy.Rate(10)
+   rate.sleep()设置循环的频率，与循环搭配使用
+
+8、self.tf_listener = tf.TransformListener()申明一个listener的类
+(trans, rot) = self.tf_listener.lookupTransform(self.odom_frame, self.base_frame, rospy.Time(0)) 得到的trans是从odom到base的距离变换，例如odom为(0,0),base为(1,1),则trans=[1,1],rot为四元数
+
+
+由于转发有延迟，所以需要用try except函数！否则会报错
+
+
