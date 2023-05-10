@@ -19,6 +19,7 @@
   <arg name="config4"    default="front_laser"/>
   <arg name="config4_id" default="0"/>
   <arg name="world_name" default="$(find multi_agent_formation)/worlds/square_obstacle_more.world"/>
+
   <!-- <arg name="world_name" default="$(find jackal_helper)/worlds/jackal_race.world" /> -->
 
   <include file="$(find gazebo_ros)/launch/empty_world.launch">
@@ -41,6 +42,7 @@
       <arg name="y" value="0.0" />
       <arg name="yaw" value="0.0" />
       <arg name="joystick" default="false" />
+<arg name="use_global_ekf" default="false"/>
   </include>  
   
 

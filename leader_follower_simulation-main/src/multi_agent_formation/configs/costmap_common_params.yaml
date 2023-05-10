@@ -24,4 +24,4 @@ obstacles_layer:
   footprint_padding: 0.0
 
 inflater_layer:
- inflation_radius: 0.30
+ inflation_radius: 0.40

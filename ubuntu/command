@@ -8,3 +8,7 @@ git commit -m "first conmit"
 (git remote add origin git@github.com:lwt104/github.git)
 git push -u origin master
 
+
+2、rosrun rqt_tf_graph rqt_tf_graph 
+   rosrun tf tf_echo tf1 tf2
+

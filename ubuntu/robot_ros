@@ -1,0 +1,5 @@
+1、tf中的static_transform_publisher发布的是两个相对静止的坐标系
+  <node pkg="tf" type="static_transform_publisher" name="map_odom_broadcaster" 
+          ns="$(arg ns)" args="$(arg x) $(arg y) 0 $(arg yaw) 0 0 map $(arg ns)/odom 100" />
+node pkg:功能包   type:节点名  name:重命名的节点名
+从map到odom下的tf变换，即odom的原点相对于map原点的偏移量  100:每100ms发一次
