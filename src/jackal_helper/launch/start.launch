@@ -1,0 +1,12 @@
+<launch>
+  <include file="$(find jackal_helper)/launch/gazebo_launch.launch">
+     <arg name="world_name" value="$(find jackal_helper)/worlds/Benchmarking/test/environment.world" /> 
+    <!-- 137  158 204 214-->
+    <!-- <arg name="world_name" value="$(find jackal_helper)/worlds/Benchmarking/total/world_0.world" /> -->
+    <arg name="gui" value="true" />
+  </include>
+  <!-- <include file="$(find jackal_helper)/launch/move_base_DWA.launch" /> -->
+  <include file="$(find jackal_helper)/launch/move_base_teb.launch" />
+  <include file="$(find jackal_helper)/launch/jackal_helper.launch" />
+  <include file="$(find jackal_helper)/launch/teb_rviz.launch" />
+</launch>

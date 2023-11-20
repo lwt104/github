@@ -1,0 +1,8 @@
+prefix=/home/lwt/jackal_ws/devel
+
+Name: teb_controller
+Description: Description of teb_controller
+Version: 0.2.4
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/lwt/jackal_ws/devel
+
+Name: horizon
+Description: Description of horizon
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

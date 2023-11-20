@@ -1,0 +1,8 @@
+prefix=/home/lwt/jackal_ws/devel
+
+Name: tf2
+Description: Description of tf2
+Version: 0.6.7
+Cflags: -I/home/lwt/jackal_ws/src/geometry2/tf2/include -I/usr/local/include
+Libs: -L${prefix}/lib -ltf2 /usr/local/lib/libconsole_bridge.so.1.0
+Requires: geometry_msgs tf2_msgs rostime
